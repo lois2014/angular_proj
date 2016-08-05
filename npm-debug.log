@@ -9,8 +9,8 @@
 6 silly lifecycle angular2-quickstart@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle angular2-quickstart@1.0.0~start: angular2-quickstart@1.0.0
 8 verbose lifecycle angular2-quickstart@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle angular2-quickstart@1.0.0~start: PATH: D:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;D:\angularProject\TEST\my-proj\node_modules\.bin;D:\Program Files\nodejs;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Git\cmd;D:\php\php7\ext;D:\php\php7;D:\Program Files\mysql\bin;D:\Program Files\TortoiseGit\bin;D:\Program Files\redis;D:\Program Files\nvmw;D:\Program Files\nodejs\;C:\Users\qzz\AppData\Roaming\npm
-10 verbose lifecycle angular2-quickstart@1.0.0~start: CWD: D:\angularProject\TEST\my-proj
+9 verbose lifecycle angular2-quickstart@1.0.0~start: PATH: D:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;D:\angularProject\TEST\angular_proj\node_modules\.bin;D:\Program Files\nodejs;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;D:\php\php7\ext;D:\php\php7;D:\Program Files\mysql\bin;D:\Program Files\TortoiseGit\bin;D:\Program Files\redis;D:\Program Files\nvmw;D:\Program Files\nodejs\;D:\Program Files\Git\cmd;C:\Users\qzz\AppData\Roaming\npm
+10 verbose lifecycle angular2-quickstart@1.0.0~start: CWD: D:\angularProject\TEST\angular_proj
 11 silly lifecycle angular2-quickstart@1.0.0~start: Args: [ '/d /s /c', 'tsc && concurrently "tsc -w" "lite-server" ' ]
 12 silly lifecycle angular2-quickstart@1.0.0~start: Returned: code: 2  signal: null
 13 info lifecycle angular2-quickstart@1.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:850:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
 15 verbose pkgid angular2-quickstart@1.0.0
-16 verbose cwd D:\angularProject\TEST\my-proj
+16 verbose cwd D:\angularProject\TEST\angular_proj
 17 error Windows_NT 6.1.7601
 18 error argv "D:\\Program Files\\nodejs\\node.exe" "D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "start"
 19 error node v6.2.0
